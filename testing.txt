@@ -1,0 +1,111 @@
+http://localhost:500
+
+💻 Core Programming & Tech Terms
+
+Algorithm
+
+API
+
+Backend
+
+Binary
+
+Blockchain
+
+Bug
+
+Cache
+
+Cloud
+
+Compiler
+
+Cookie
+
+⚙️ Software & Web Dev
+
+Database
+
+Debugging
+
+Deployment
+
+DevOps
+
+DOM
+
+Encryption
+
+Endpoint
+
+Framework
+
+Frontend
+
+Function
+
+📱 Modern Tech Buzzwords
+
+AI (Artificial Intelligence)
+
+Machine Learning
+
+Deep Learning
+
+Neural Network
+
+Big Data
+
+Internet of Things (IoT)
+
+Quantum Computing
+
+Cloud Computing
+
+Cybersecurity
+
+Blockchain
+
+🧠 Coding & Scripting
+
+JavaScript
+
+TypeScript
+
+React
+
+Node.js
+
+Python
+
+HTML
+
+CSS
+
+GitHub
+
+JSON
+
+API Request
+
+🌐 Network & System
+
+Server
+
+Protocol
+
+DNS
+
+Firewall
+
+IP Address
+
+Load Balancer
+
+Middleware
+
+Virtual Machine
+
+Container
+
+Kubernetes
